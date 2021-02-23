@@ -118,7 +118,7 @@ img {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  margin-bottom: 1.45rem; 
 }
 svg:not(:root) {
   overflow: hidden;
@@ -190,7 +190,7 @@ button::-moz-focus-inner {
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring,
-button:-moz-focusring {
+button:-moz-focusring { 
   outline: 1px dotted ButtonText;
 }
 fieldset {
