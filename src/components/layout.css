@@ -89,8 +89,8 @@ h1 {
   line-height: 1.1;
 }
 mark {
-  background-color: #ff0;
-  color: #000;
+  background-color: rgb(255, 196, 0);
+  color: rgb(12, 63, 233);
 }
 small {
   font-size: 80%;
