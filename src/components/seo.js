@@ -62,7 +62,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: Letstweetup,
         },
         {
           name: `twitter:description`,
